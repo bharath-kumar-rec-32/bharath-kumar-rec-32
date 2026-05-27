@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bharath 
+- 👋 Hi, I’m Bharath kumar S
 - 👀 I’m interested in 
 - 🌱 I’m currently learning AI and data science in REC
 - 💞️ I’m looking to collaborate on ...
